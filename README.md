@@ -14,7 +14,7 @@ The Most Amazing Project is the completed code for my capstone. The project feat
 ### Project Components include:
 1. Particle Photon 2
 2. MP3 Player
-3. MPU6050
+3. IRobot Create 2 System
 4. NFC Reader
 5. Duct Tape
 
